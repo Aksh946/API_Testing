@@ -1,0 +1,8 @@
+{
+  "id": 26,
+  "title": "Relentless",
+  "description": "Simple Maths",
+  "pageCount": 400,
+  "excerpt": "4+4=8",
+  "publishDate": "2022-08-29T04:53:50.470Z"
+ }
